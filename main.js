@@ -1,3 +1,5 @@
+// I KNOW THESE THINGS ARE NOT SAME AS THE METHODS IN JAVASCRIPT, I'M JUST TRYING TO LEARN 😭
+
 // map object
 function myMap() {
     let arr = []
